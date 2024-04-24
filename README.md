@@ -1,6 +1,6 @@
 <h1>Olá! sou Marcos Haag 🖐️</h1>
 
-💻 Desenvolvedor Full Stack em formação <br>
+💻 Desenvolvedor Full Stack em formação. <br>
 📘 Desenvolvedor com experiência sólida em Front-End, atualmente adquirindo conhecimento em Back-End para se tornar um desenvolvedor Full-Stack!
 
 <div>
